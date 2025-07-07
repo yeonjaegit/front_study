@@ -1,3 +1,25 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
 .id {
   display: inline-block;
+}
+
+.ps {
+  display: inline-block;
+}
+
+div > ul > a {
+  padding: 2.5px;
+
+  text-decoration: none;
+  color: black;
+}
+
+div > ul > a:hover {
+  background-color: red;
+  color: aliceblue;
 }
