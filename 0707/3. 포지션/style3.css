@@ -1,0 +1,52 @@
+body {
+  height: 3000px;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.nevi {
+  background-color: skyblue;
+  height: 50px;
+  width: 100%;
+  position: fixed;
+}
+
+.menu1 {
+  position: absolute;
+  right: 175px;
+}
+
+.menu2 {
+  position: absolute;
+  right: 125px;
+}
+
+.menu3 {
+  position: absolute;
+  right: 75px;
+}
+
+.menu4 {
+  position: absolute;
+  right: 25px;
+}
+
+.home {
+  position: absolute;
+}
+
+a {
+  margin-top: 10px;
+  text-decoration: none;
+  color: black;
+}
+
+i {
+  margin-top: 14px;
+  margin-right: 3px;
+  margin-left: 3px;
+}
