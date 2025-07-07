@@ -1,0 +1,10 @@
+@import url('https://fonts.googleapis.com/css2?family=Quicksand:wght@300..700&display=swap');
+@font-face {
+    font-family: '770Balsa';
+    src: url('https://fastly.jsdelivr.net/gh/projectnoonnu/2505-1@1.0/770Balsa.woff2') format('woff2');
+    font-weight: normal;
+    font-style: normal;
+}
+* {
+  font-family: "Quicksand", sans-serif;
+}

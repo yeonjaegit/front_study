@@ -1,0 +1,45 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.menu {
+  background-color: gray;
+  height: 100px;
+  width: 500px;
+}
+
+.nav {
+  background-color: aqua;
+  height: 300px;
+  width: 100px;
+}
+
+.float {
+  float: left;
+}
+
+.content {
+  background-color: blueviolet;
+  height: 300px;
+  width: 400px;
+  float: left;
+}
+
+.footer {
+  clear: both;
+  background-color: green;
+  height: 100px;
+  width: 500px;
+}
+
+.center {
+  height: 500px;
+  width: 500px;
+  margin: auto;
+}
+
+.body {
+  height: 2000px;
+}
