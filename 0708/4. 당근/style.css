@@ -1,0 +1,127 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.head {
+  height: 50px;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.firstback {
+  height: 700px;
+  background-color: #FBF8F2;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.tex {
+ scale: 1.1;
+ margin-left: 50px;
+}
+
+.secondback {
+  height: 700px;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+}
+
+.lastback {
+  height: 200px;
+  border-top: 1px solid #cecac4;
+}
+
+.h11 {
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 15px;
+}
+
+.secondback > div > a {
+  text-decoration: none;
+  color: black;
+  border: 1px solid rgb(255, 255, 255);
+  padding: 10px;
+  margin-left: 0;
+  margin-right: 20px;
+  background-color: #e7e7e7;
+  border-radius: 5px;
+}
+
+.logohead {
+  height: 50px;
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.logo {
+  margin: 10px;
+}
+
+.inputchat {
+  display: flex;
+}
+
+.chat {
+  margin: 10px;
+  border-radius: 5px;
+  border: 1px solid #ffffff;
+  background-color: #ececec;
+  scale: 1.2;
+  padding: 5px;
+}
+
+.btn-submit {
+  margin: 7px;
+  margin-left: 20px;
+  padding: 5px;
+  background-color: white;
+  border-radius: 5px;
+  border: 1px solid #cecac4;
+  scale: 1.1;
+  cursor: pointer;
+}
+
+.head > .logohead > .navi {
+  display: flex;
+  align-items: center;
+}
+
+.head > .logohead > .navi > a {
+  text-decoration: none;
+  color: black;
+  margin: 15px;
+  scale: 1.1;
+  font-weight: 600;
+}
+
+.head > .logohead > .navi > .a1 {
+  color: #ff8a3d;
+}
+
+.lastback {
+  display: flex;
+  text-align: center;
+  justify-content: space-around;
+}
+
+.lastback > .lasttext > a {
+  text-decoration: none;
+  color: black;
+  margin: 15px;
+  float: left;
+}
+
+.lastback > .lasttext > .com {
+  margin-left: 45px;
+}
+
+.lastback > .lasttext > .inje {
+  margin-left: 135px;
+}

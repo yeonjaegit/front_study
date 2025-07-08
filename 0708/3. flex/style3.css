@@ -1,0 +1,26 @@
+.parent {
+  width: 500px;
+  height: 500px;
+  background-color: yellow;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.child{
+  width: 400px;
+  height: 400px;
+  background-color: white;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.baby {
+  width: 230px;
+  height: 230px;
+  background-color: purple;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

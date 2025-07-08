@@ -1,6 +1,7 @@
 div {
   display: inline-block;
   margin: 13px;
+  transition: all 0.5s;
 }
 
 .div1 {
@@ -29,4 +30,5 @@ div {
 
 div:hover {
   scale: 1.2;
+  box-shadow: 2px 2px 10px grey;
 }
