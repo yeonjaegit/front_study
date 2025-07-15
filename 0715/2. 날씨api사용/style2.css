@@ -1,0 +1,17 @@
+.container {
+  border: 1px solid gray;
+  display: flex;
+  width: 300px;
+  align-items: center;
+  border-radius: 5px;
+}
+
+.select {
+  display: block;
+  border-radius: 5px;
+}
+
+.container > p {
+  margin-right: 3px;
+  margin-left: 3px;
+}
